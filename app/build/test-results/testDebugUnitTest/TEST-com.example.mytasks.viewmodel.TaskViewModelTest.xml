@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.mytasks.viewmodel.TaskViewModelTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-06-08T00:51:29.684Z" hostname="DESKTOP-0LOI6UL" time="0.236">
+  <properties/>
+  <testcase name="setFiltro PENDENTES exibe apenas tarefas nao concluidas" classname="com.example.mytasks.viewmodel.TaskViewModelTest" time="0.21"/>
+  <testcase name="setFiltro CONCLUIDAS exibe apenas tarefas concluidas" classname="com.example.mytasks.viewmodel.TaskViewModelTest" time="0.005"/>
+  <testcase name="setFiltro TODAS apos filtro ativo exibe todas as tarefas" classname="com.example.mytasks.viewmodel.TaskViewModelTest" time="0.004"/>
+  <testcase name="adicionarTarefa adiciona tarefa com titulo correto" classname="com.example.mytasks.viewmodel.TaskViewModelTest" time="0.002"/>
+  <testcase name="atualizarTarefa persiste prioridade ALTA" classname="com.example.mytasks.viewmodel.TaskViewModelTest" time="0.002"/>
+  <testcase name="atualizarTarefa altera titulo e status" classname="com.example.mytasks.viewmodel.TaskViewModelTest" time="0.003"/>
+  <testcase name="atualizarTarefa persiste dataVencimento" classname="com.example.mytasks.viewmodel.TaskViewModelTest" time="0.002"/>
+  <testcase name="adicionarTarefa cria tarefa com prioridade MEDIA por padrao" classname="com.example.mytasks.viewmodel.TaskViewModelTest" time="0.002"/>
+  <testcase name="adicionarTarefa ignora titulo em branco" classname="com.example.mytasks.viewmodel.TaskViewModelTest" time="0.002"/>
+  <testcase name="deletarTarefa remove a tarefa da lista" classname="com.example.mytasks.viewmodel.TaskViewModelTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

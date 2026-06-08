@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.mytasks.utils.DateUtilsTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-06-08T00:51:29.664Z" hostname="DESKTOP-0LOI6UL" time="0.012">
+  <properties/>
+  <testcase name="startOfTodayUtcMs retorna meia-noite UTC" classname="com.example.mytasks.utils.DateUtilsTest" time="0.001"/>
+  <testcase name="formatarData e mais longa que formatarDataCurta" classname="com.example.mytasks.utils.DateUtilsTest" time="0.001"/>
+  <testcase name="isHoje retorna true para timestamp atual" classname="com.example.mytasks.utils.DateUtilsTest" time="0.0"/>
+  <testcase name="formatarData inclui o ano de 4 digitos" classname="com.example.mytasks.utils.DateUtilsTest" time="0.009"/>
+  <testcase name="isPassado retorna true para ontem" classname="com.example.mytasks.utils.DateUtilsTest" time="0.0"/>
+  <testcase name="isHoje retorna false para amanha" classname="com.example.mytasks.utils.DateUtilsTest" time="0.0"/>
+  <testcase name="formatarDataCurta nao inclui o ano" classname="com.example.mytasks.utils.DateUtilsTest" time="0.0"/>
+  <testcase name="isHoje retorna false para ontem" classname="com.example.mytasks.utils.DateUtilsTest" time="0.0"/>
+  <testcase name="isPassado retorna false para agora" classname="com.example.mytasks.utils.DateUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

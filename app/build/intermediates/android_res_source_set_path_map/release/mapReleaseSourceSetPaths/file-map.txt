@@ -1,0 +1,8 @@
+com.example.mytasks.app-pngs-0 C:\Users\kieru\AndroidStudioProjects\MyTasks\app\build\generated\res\pngs\release
+com.example.mytasks.app-updated_navigation_xml-1 C:\Users\kieru\AndroidStudioProjects\MyTasks\app\build\generated\updated_navigation_xml\release
+com.example.mytasks.app-packageReleaseResources-2 C:\Users\kieru\AndroidStudioProjects\MyTasks\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.mytasks.app-packageReleaseResources-3 C:\Users\kieru\AndroidStudioProjects\MyTasks\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.mytasks.app-release-4 C:\Users\kieru\AndroidStudioProjects\MyTasks\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.mytasks.app-main-5 C:\Users\kieru\AndroidStudioProjects\MyTasks\app\src\main\res
+com.example.mytasks.app-release-6 C:\Users\kieru\AndroidStudioProjects\MyTasks\app\src\release\res
+gradleHome-0 C:\Users\kieru\.gradle
