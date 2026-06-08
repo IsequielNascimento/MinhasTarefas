@@ -12,7 +12,7 @@
 
 ## Justificativa da Escolha do Tema
 
-O tema **Lista de Tarefas** foi escolhido por ser um domínio familiar e direto. O apo “MinhasTarefas/MyTasks” é um aplicativo Android simples de gerenciamento de arefas pessoais, desenvolvido com Kotlin e Jetpack Compose. O app permite ao usuário adicionar, visualizar, marcar como concluída e excluir tarefas de aneira intuitiva. Toda a interface é construída de forma declarativa com compose. O principal desafio técnico a ser superado será o gerenciamento ficiente de estado da aplicação
+O tema **Lista de Tarefas** foi escolhido por ser um domínio familiar e direto. O apo “MinhasTarefas/MyTasks” é um aplicativo Android simples de gerenciamento de arefas pessoais, desenvolvido com Kotlin e Jetpack Compose. O app permite ao usuário adicionar, visualizar, marcar como concluída e excluir tarefas de maneira intuitiva. Toda a interface é construída de forma declarativa com compose. 
 ---
 
 ## Descrição do Funcionamento
